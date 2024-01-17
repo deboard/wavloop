@@ -81,10 +81,7 @@ fn main() -> Result<(), anyhow::Error> {
         }
     };
 
-   // let sp = stream.play();
-
-    //match stream.play().unwrap() {
-    //}
+    // let sp = stream.play();
 
     // Let recording go for roughly three seconds.
     //std::thread::sleep(std::time::Duration::from_secs(3));
